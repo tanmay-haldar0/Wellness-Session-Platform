@@ -1,5 +1,8 @@
 # 🧘 Arvyax Wellness Session Platform
 
+### live link for the app
+https://wellness-session.onrender.com/
+
 A secure full-stack web application that allows users to create, draft, auto-save, and publish wellness session JSONs with authentication, session management, and a modern UI. Built as part of the Arvyax Full Stack Internship assignment using the **MERN** stack.
 
 ---
