@@ -2,8 +2,8 @@
 
 A modern MERN stack web app for creating, drafting, and publishing wellness session JSONs with authentication, session management, and a beautiful UI.
 
-[**🌐 Frontend Live Demo**](https://wellness-session.onrender.com/)
-[**🌐 Backend Live Demo**](https://wellness-session-platform.onrender.com/)
+- [**🌐 Frontend Live Demo**](https://wellness-session.onrender.com/)
+- [**🌐 Backend Live Demo**](https://wellness-session-platform.onrender.com/)
 
 ---
 
