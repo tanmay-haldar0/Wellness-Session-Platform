@@ -108,14 +108,6 @@ This will start the frontend on http://localhost:5173.
 🌐 [Portfolio](https://tanmay-haldar0.onrender.com)  
 🐙 [GitHub](https://github.com/tanmay-haldar0)
 
----
-
-## 📃 License
-
-This project was developed as part of the Arvyax Full Stack Internship assignment.  
-Feel free to use and modify with proper attribution.
-
----
 
 ## 🙌 Acknowledgements
 
