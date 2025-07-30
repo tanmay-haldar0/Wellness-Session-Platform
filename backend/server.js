@@ -11,7 +11,7 @@ const app = express();
 
 app.use(
   cors({
-    origin: ["http://localhost:5173", "https://classiccustom-frontend.onrender.com"], // frontend
+    origin: ["http://localhost:5173", "https://wellness-session.onrender.com/"], // frontend
     credentials: true,
   })
 );
